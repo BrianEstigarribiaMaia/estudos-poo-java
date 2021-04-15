@@ -1,4 +1,4 @@
-package br.com.w3c.java.clases.regex;
+package br.com.java.clases.regex;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -6,15 +6,15 @@ import java.util.regex.Pattern;
 public class ExecutaRegex {
 
 	public static void main(String[] args) {
-		Pattern padrao = Pattern.compile("w3schools",Pattern.CASE_INSENSITIVE);
-		Matcher combinar = padrao.matcher("Visit W3SCHOOLS!");
+		Pattern padrao = Pattern.compile("inuyasha",Pattern.CASE_INSENSITIVE);
+		Matcher combinar = padrao.matcher("Veja INUYASHA!");
 		
 		boolean encontrarCombinacao = combinar.find();
 		
 		if(encontrarCombinacao){
-			System.out.println("Combinação encontrada");
+			System.out.println("CombinaÃ§Ã£o encontrada");
 		}else{
-			System.out.println("Combinação Não encontrada");
+			System.out.println("CombinaÃ§Ã£o NÃ£o encontrada");
 		}
 	}
 }
