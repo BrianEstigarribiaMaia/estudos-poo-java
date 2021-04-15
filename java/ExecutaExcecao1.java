@@ -1,4 +1,4 @@
-package br.com.w3c.java.classes.exceptions;
+package br.com.java.classes.exceptions;
 
 public class ExecutaExcecao1 {
 
