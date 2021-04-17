@@ -1,4 +1,4 @@
-package br.com.w3c.java.classes.enums;
+package br.com.estudos.java.enums;
 
 public class ExecutaDiasDaSemana {
 
