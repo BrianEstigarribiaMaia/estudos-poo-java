@@ -1,4 +1,4 @@
-package br.com.java.clases.regex;
+package br.com.estudos.java.regex;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
