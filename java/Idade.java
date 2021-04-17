@@ -1,4 +1,4 @@
-package br.com.java.classes.exceptions;
+package br.com.estudos.java.exceptions;
 
 public class Idade {
 
