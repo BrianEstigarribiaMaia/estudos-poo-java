@@ -1,4 +1,4 @@
-package br.com.w3c.java.classes.aninhada;
+package br.com.estudos.java.aninhada;
 
 
 public class ExecutaAninhada {
