@@ -1,5 +1,5 @@
-package br.com.w3c.java.classes.enums;
+package br.com.estudos.java.enums;
 
 public enum DiasDaSemana {
-	segunda, terça, quarta, quinta, sexta, sábado, domingo
+	segunda, terÃ§a, quarta, quinta, sexta, sÃ¡bado, domingo
 }
