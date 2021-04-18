@@ -1,4 +1,4 @@
-package br.com.estudos.java.file;
+package br.com.estudos.file;
 
 import java.io.File;
 
