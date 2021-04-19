@@ -1,4 +1,4 @@
-package br.com.estudos.poo.interfaces;
+package br.com.estudos.interfaces;
 
 public class Apartamento implements Construcao, CustoConstrucao{
 
