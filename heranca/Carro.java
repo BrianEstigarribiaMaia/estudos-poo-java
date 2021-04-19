@@ -1,4 +1,4 @@
-package br.com.estudos.poo.heranca;
+package br.com.estudos.heranca;
 
 public class Carro extends Veiculo {
 
