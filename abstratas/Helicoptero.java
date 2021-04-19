@@ -1,4 +1,4 @@
-package br.com.estudos.poo.abstratas;
+package br.com.estudos.abstratas;
 
 public class Helicoptero extends Aeronave{
 
