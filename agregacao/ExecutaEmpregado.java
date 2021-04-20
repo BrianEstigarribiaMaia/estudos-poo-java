@@ -1,4 +1,4 @@
-package br.com.estudos.poo.agragacao;
+package br.com.estudos.poo.agregacao;
 
 public class ExecutaEmpregado {
 
