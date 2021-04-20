@@ -1,8 +1,8 @@
-package br.com.estudos.poo.agragacao;
+package br.com.estudos.poo.agregacao;
 
 public class Circulo {
 
-	Operacao operacao; //agregação
+	Operacao operacao; //agregaÃ§Ã£o
 	
 	public double area(int raio){
 		operacao = new Operacao();
