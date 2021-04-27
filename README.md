@@ -12,5 +12,5 @@ Utilizei a plataforma GitHub como meio de organizar os Códigos e compartilhar o
    <li> Classes abstratas </li>
    <li> Classes aninhadas </li>
    <li> Classes Wrapper </li>
-   <li> Java : regex, exceptions, date, io, collections, enuns e file</li>
+   <li> Encapsulamento </li>
   </ul>
